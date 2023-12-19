@@ -1,0 +1,3 @@
+﻿  P17.c
+c:\users\user\onedrive\桌面\hw7\p17\p17\p17.c(12): warning C4047: '=': 'char' 與 'char [2]' 間接取值的層級不同
+  P17.vcxproj -> C:\Users\user\OneDrive\桌面\hw7\P17\Debug\P17.exe
